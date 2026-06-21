@@ -40,3 +40,30 @@
 11. preoccupied 全神贯注的，专注的  
     be ~ with 专注于
 12. **game** animals | n. 猎物 | 供捕猎的动物
+
+## 6.21
+
+### Title: Scientists catalog the ‘fractal dimensions’ of more than 130,000 islands
+1. catalog n. 目录 v. 编入目录，系统记录  
+   catalog of species 物种名录 | n.  
+   Scientists cataloged dozens of new species. | v.
+2. fractal n. 分形 adj. 分形的
+3. perimeter 周长
+4. X years away from sth 距离某事发生还有 X 年  
+   At that point he was eight years away from coining the term “fractal”.
+5. landmass 大陆
+6. geometry 几何学  
+   geometric adj. 几何的 | geometric features 几何特征
+7. come in last 排在最后  
+   In terms of customer satisfaction, this model comes in last among the three.
+8. departure n. 离开（出发，启程），辞职，**偏离**  
+   This discovery is a departure from current fractal models of Earth’s surface.
+9. scale n. 比例 v. 按比例缩放  
+   All features scale with the same fractal dimension.
+10. stark adj. 明显的，鲜明的  
+    stark difference
+11. chip away at 逐步削弱，一点一点地侵蚀  
+    This finding aligns with the idea that factors such as sedimentation and erosion would **chip away at** a coastline’s complexity.  
+12. rigorous adj. 严谨的，严密的  
+    The authors’ approach to calculating the fractal dimensions was “very rigorous”.
+13. opens up new avenues for research 开辟新的研究方向
